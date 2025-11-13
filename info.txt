@@ -1,0 +1,5 @@
+1.Grid
+2.flex
+3.standards followed while making project from scratch
+4.media queries
+5.Transitions and Animations
